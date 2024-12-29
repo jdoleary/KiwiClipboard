@@ -116,7 +116,7 @@ const ClipboardManager = () => {
       <div className="flex-1 p-4 overflow-hidden flex flex-col">
         <Card className="mb-4">
           <CardHeader>
-            <CardTitle>Clipboard Manager</CardTitle>
+            <CardTitle>KiwiClipboard 🥝📋</CardTitle>
           </CardHeader>
           <CardContent>
             <div className="flex gap-2 mb-4">
